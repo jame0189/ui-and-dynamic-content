@@ -1,0 +1,73 @@
+*{
+            font-family: 'Roboto', sans-serif;
+        
+        }
+    
+        li{
+            list-style: none;
+            font-family: 'Roboto', sans-serif;
+            color: wheat;
+        }
+        
+        body{
+            background-color: ;
+            
+        }
+        h1 {
+            color: white;
+            font-size: 50px;
+        }
+        p{
+            font-family: 'Indie Flower', cursive;
+            color: white;
+        }
+        
+        .wrapper{
+            max-width: 45rem;
+            height: 80rem;
+            background-color: #13617F;
+            margin-left: auto;
+            margin-right: auto;
+            
+        }
+        header img{
+            max-width: 100%;
+        }
+        
+        .center{
+            text-align: center;
+        }
+        .paddingl{
+            padding-left: 12vh;
+        }
+        input{
+            font-family: 'Roboto', sans-serif;
+            font-size: 1rem;
+            line-height: 1.5;
+            width: 80%;
+            padding: 0.5rem;
+            border: 1px solid #CCC;
+        } 
+         
+        .main{
+            height: 200px;
+        }
+
+        button{
+            margin-top: 2.5vh;
+            font-family: 'Roboto', sans-serif;
+            font-size: 1rem;
+            line-height: 1.5;
+            padding: 0.5rem;
+            width: 83%;
+        }     
+        
+        footer{
+            margin-top: 30vh;
+            height: 200px;
+            
+        }
+        footer img{
+            margin: 5vh 3vh;
+        }
+        
